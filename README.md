@@ -1,6 +1,7 @@
 # Latex template for CS207
 
-## Steps
+## Steps to ease the process of writing assignments in .tex format
+
 
 1. Copy paste questions from pdf to .tex file
     1. convert pdf to text by pdftotext command in terminal(install by `pip install pdftotext` ). Command `pdftotext ques.pdf ques.txt` to convert pdf to text.
