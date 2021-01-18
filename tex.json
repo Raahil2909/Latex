@@ -1,0 +1,26 @@
+{
+	"tex_template":{
+		"prefix": "tex",
+		"body": [
+		"\\documentclass{article}",
+		"\\usepackage{graphicx}",
+		"\\usepackage[margin=0.5in]{geometry}",
+		"\\usepackage{amsmath,amsfonts}",
+		"\\usepackage{float}",
+		"\\usepackage{algorithm}",
+		"\\usepackage{titlesec}",
+		"\\setlength{\\parindent}{0pt}",
+		"",
+		"\\begin{document}",
+		"\\centerline{Assignment - x}",
+		"\\centerline{Your name}",
+		"\\centerline{190101___}",
+		"\\hrule",
+		"\\begin{enumerate}",
+		"\t$1",
+		"\\end{enumerate} ",
+		"\\end{document}"
+		],
+		"description": "tex_tmplate"
+	}
+}
